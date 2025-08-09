@@ -42,27 +42,27 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 
 | Project | Description | GitHub Link |
 | ------- | ----------- | ----------- |
-| CSS Vars Availability Table | Table showing browser support for CSS variables | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-vars-availability-table) |
-| City Skyline with CSS Variables | CSS variables used to build a city skyline illustration | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-variables-build-city-skyline) |
-| Django DRF Responsive Technical Docs (CSS) | Technical documentation page for Django REST Framework styled with CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/django-drf-responsive-technical-doc-css) |
-| Basic Responsive Piano | Interactive responsive piano using HTML, CSS, and JS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/basic-responsive-piano) |
-| Book Inventory App | Book inventory management web app | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/book-inventory-app) |
-| CSS Attribute Selectors – Balance Sheet | Demonstrates CSS attribute selectors in a balance sheet layout | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-attribute-selectors-balance-sheet) |
-| CSS Positioning – House Painting | CSS positioning to simulate painting a house | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-positioning-house-painting) |
-| CSS Accessibility – Webpage Quiz | Accessible quiz page built with HTML and CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-accessibility-webpage-quiz) |
-| CSS Accessibility – Tribute Page | Accessible tribute page layout | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-accessibility-tribute-page) |
-| CSS Typography – Nutrition Labels | Typography-focused nutrition label design | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-typography-nutrition-labels) |
-| CSS Flexbox – Photo Gallery | Photo gallery layout using CSS flexbox | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-flex-box-photo-gallery) |
-| Confidential Email Page | Simple confidential email landing page | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/confidential-email-page) |
-| Rothko Painting (CSS) | Abstract Rothko-style painting in CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/rothko_painting) |
-| Contact Form | Responsive HTML/CSS contact form | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/contact_form) |
-| Signup Page | Styled signup form page | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/signup-page) |
-| CSS Colored Boxes | CSS project with colorful box designs | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-colored-boxes) |
-| CSS Colored Markers | CSS project with colorful marker illustrations | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-colored-markers) |
-| Job Application Form | HTML/CSS job application form layout | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/job-application-form) |
-| Greeting Card (CSS) | Creative greeting card using CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
-| Event Flyer | HTML/CSS event flyer layout | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
-| Feedback Form | HTML/CSS feedback submission form | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
+| Weekly availability table | Demonstration of the use of CSS Variables via creation of a timetable | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-vars-availability-table) |
+| City Skyline with CSS Variables | A skyline built using html and CSS with emphasis on CSS variables | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-variables-build-city-skyline) |
+| Django DRF Responsive Technical Docs (CSS) |A documentation of Django REST demonstrating responsiveness in CSS for various devices | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/django-drf-responsive-technical-doc-css) |
+| Basic Piano Layout | Piano layout to demonstrate responsiveness for various devices | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/basic-responsive-piano) |
+| Book Inventory App | Demonstration of CSS attribute selectors in creating an inventory book | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/book-inventory-app) |
+| Balance Sheet | Demonstrates CSS attribute selectors in a balance sheet layout | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-attribute-selectors-balance-sheet) |
+| House Painting | Demonstration of elements positioning in CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-positioning-house-painting) |
+| Webpage Quiz | A webpage quiz to demonstrate Accessible Rich Internet Applications (ARIA)| [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-accessibility-webpage-quiz) |
+| Tribute Page | A page designed to demonstrate ARIA | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-accessibility-tribute-page) |
+| Nutrition Labels | Demonstration of semantic html elements and typography using nutrition labels | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-typography-nutrition-labels) |
+| Photo Gallery | Photo gallery layout create to demonstration flexbox skills | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-flex-box-photo-gallery) |
+| Confidential Email Page | Simple confidential email message to demonstrate the Box Model in CSS| [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/confidential-email-page) |
+| Rothko Painting | An abstract painting to showcase the box model in CSS| [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/rothko_painting) |
+| Contact Form |A contact form built to illustrate styling forms in CSS| [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/contact_form) |
+| Signup Page | A sign up page to illustrate form styling and file uploads in CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/signup-page) |
+| Colored Boxes | A repo demonstrating various ways to apply color in CSS | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-colored-boxes) |
+| Colored Markers | Markers ilustrating how colors can combine to mimick 3D reality using shades | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-colored-markers) |
+| Job Application Form | Creating a basic form in html | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/job-application-form) |
+| Greeting Card (CSS) | Demonstration of `pseudo-elements` in CSS by building a greeting card | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
+| Event Flyer | A flyer to demonstration semantic html elements | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
+| Feedback Form | A raw form in html using semantic elements | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
 
 ---
 
