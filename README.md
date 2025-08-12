@@ -42,6 +42,7 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 
 | Project | Description | GitHub Link |
 | ------- | ----------- | ----------- |
+| Newspaper article | How CSS grid can be used to create a simple newspaper article | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/building-newspaper-article-using-grid) |
 | Weekly availability table | Demonstration of the use of CSS Variables via creation of a timetable | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-vars-availability-table) |
 | City Skyline with CSS Variables | A skyline built using html and CSS with emphasis on CSS variables | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-variables-build-city-skyline) |
 | Django DRF Responsive Technical Docs (CSS) |A documentation of Django REST demonstrating responsiveness in CSS for various devices | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/django-drf-responsive-technical-doc-css) |
