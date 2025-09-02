@@ -71,13 +71,13 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 -->
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
-| <div style="text-align:center" rowspan="3">**Software Application Development**</div> | Flask Application – IFB 2024 | Financial Modelling | Calculation of a Kenyan Infrastructure Bond (IFB 2024) returns with amortization issued on February 2024. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/ifb2024) |
+| <div style="text-align:center; color:#1f77b4;" rowspan="3">**Software Application Development**</div> | Flask Application – IFB 2024 | Financial Modelling | Calculation of a Kenyan Infrastructure Bond (IFB 2024) returns with amortization issued on February 2024. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/ifb2024) |
 |  | Django REST Framework – EPL & Artists API | API Engineering | REST APIs managing artists, directions, and English Premier League data with PostgreSQL. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/myapps) |
 |  | Django REST Framework – Investment App | Financial Computation | Investment App that calculates yearly compound interest via API endpoints. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/compounding_investment) |
-| <div style="text-align:center" rowspan="2">**Analytical & Algorithmic Problem-Solving**</div> | Tic-Tac-Toe Game | Game Logic Implementation | Two-player tic-tac-toe game created using basic Python code and played on a Linux Terminal. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/tic-tac-toe-game) |
+| <div style="text-align:center; color:#ff7f0e;" rowspan="2">**Analytical & Algorithmic Problem-Solving**</div> | Tic-Tac-Toe Game | Game Logic Implementation | Two-player tic-tac-toe game created using basic Python code and played on a Linux Terminal. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/tic-tac-toe-game) |
 |  | Flask Movie Recommender | Recommendation Systems | Web app recommending movies based on ratings and clustering, popularity and Non-Negative Matrix Factorization. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/movie_recommender_app) |
-| <div style="text-align:center" rowspan="24">**User Interface & Web Layout Design**</div> | Trombone Sales | Responsive Layout Design | Creation of a sales landing page using CSS Grid and Flexbox. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/trombones-sale-css-grid) |
-|  | Animated Ferries Wheel | CSS Animation | Animated ferries wheel demonstrating CSS keyframes and transform properties. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/animated-ferries-wheel) |
+| <div style="text-align:center; color:#2ca02c;" rowspan="25">**User Interface & Web Layout Design**</div> | Animated Ferries Wheel | CSS Animation | Animated ferries wheel demonstrating CSS keyframes and transform properties. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/animated-ferries-wheel) |
+|  | Trombone Sales | Responsive Layout Design | Creation of a sales landing page using CSS Grid and Flexbox. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/trombones-sale-css-grid) |
 |  | Magazine Layout | Content Structuring | How to structure sections in a magazine using CSS grid. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/magazine-layout-using-css-grid) |
 |  | Newspaper Article | Editorial Layout | How CSS grid can be used to create a simple newspaper article. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/building-newspaper-article-using-grid) |
 |  | Weekly Availability Table | Theming & Variables | Demonstration of the use of CSS Variables via creation of a timetable. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-vars-availability-table) |
@@ -101,6 +101,7 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | Greeting Card (CSS) | Decorative Styling | Demonstration of `pseudo-elements` in CSS by building a greeting card. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
 |  | Event Flyer | Informational Layout | A flyer to demonstrate semantic HTML elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
 |  | Feedback Form | Accessible Forms | A raw form in HTML using semantic elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
+
 
 
 
