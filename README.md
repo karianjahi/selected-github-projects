@@ -76,7 +76,8 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | Django REST Framework – Investment App | Financial Computation | Investment App that calculates yearly compound interest via API endpoints. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/compounding_investment) |
 | <div style="text-align:center" rowspan="2">**Analytical & Algorithmic Problem-Solving**</div> | Tic-Tac-Toe Game | Game Logic Implementation | Two-player tic-tac-toe game created using basic Python code and played on a Linux Terminal. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/tic-tac-toe-game) |
 |  | Flask Movie Recommender | Recommendation Systems | Web app recommending movies based on ratings and clustering, popularity and Non-Negative Matrix Factorization. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/movie_recommender_app) |
-| <div style="text-align:center" rowspan="23">**User Interface & Web Layout Design**</div> | Trombone Sales | Responsive Layout Design | Creation of a sales landing page using CSS Grid and Flexbox. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/trombones-sale-css-grid) |
+| <div style="text-align:center" rowspan="24">**User Interface & Web Layout Design**</div> | Trombone Sales | Responsive Layout Design | Creation of a sales landing page using CSS Grid and Flexbox. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/trombones-sale-css-grid) |
+|  | Animated Ferries Wheel | CSS Animation | Animated ferries wheel demonstrating CSS keyframes and transform properties. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/animated-ferries-wheel) |
 |  | Magazine Layout | Content Structuring | How to structure sections in a magazine using CSS grid. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/magazine-layout-using-css-grid) |
 |  | Newspaper Article | Editorial Layout | How CSS grid can be used to create a simple newspaper article. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/building-newspaper-article-using-grid) |
 |  | Weekly Availability Table | Theming & Variables | Demonstration of the use of CSS Variables via creation of a timetable. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/css-vars-availability-table) |
@@ -100,6 +101,7 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | Greeting Card (CSS) | Decorative Styling | Demonstration of `pseudo-elements` in CSS by building a greeting card. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
 |  | Event Flyer | Informational Layout | A flyer to demonstrate semantic HTML elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
 |  | Feedback Form | Accessible Forms | A raw form in HTML using semantic elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
+
 
 
 See more on my [![GitHub Profile](https://img.shields.io/badge/GitHub-karianjahi-black?logo=github)](https://github.com/karianjahi)
