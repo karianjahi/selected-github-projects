@@ -80,7 +80,7 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
-| <div style="text-align:center; color:#9467bd;" rowspan="10">**JavaScript Basics**</div> | 1️⃣ Teacher Bot | 🤖 Beginner Practice | A simple JavaScript project demonstrating the use of variables and string manipulation in a chatbot-like interface. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/teacher-bot) |
+| <div style="text-align:center; color:#9467bd;" rowspan="11">**JavaScript Basics**</div> | 1️⃣ Teacher Bot | 🤖 Beginner Practice | A simple JavaScript project demonstrating the use of variables and string manipulation in a chatbot-like interface. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/teacher-bot) |
 |  | 2️⃣ Greetings Bot | ⚡ Introduction Bot | A beginner-level project demonstrating variables, `console.log()`, and string concatenation to introduce a fictional bot and show favorite subjects. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greetings-bot) |
 |  | 3️⃣ Sentence Maker | ⚡ String Building | A mini project practicing `console.log()`, variables (`const` & `let`), and string concatenation to build sentences dynamically. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sentence-maker) |
 |  | 4️⃣ JavaScript Functions Fundamentals | ⚡ Core Functions Practice | Collection of small, fundamental JavaScript functions for learning and practicing basics, inspired by freeCodeCamp exercises. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/js-functions-fundamentals) |
@@ -89,6 +89,7 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | 7️⃣ MathBot | 🤖 Math Fundamentals | Interactive bot demonstrating the JavaScript `Math` object, including random numbers, rounding, max/min, and basic exercises for beginners. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/mathbot) |
 |  | 8️⃣ JavaScript Trivia Bot | 🤖 Fun Coding Facts | Beginner-friendly bot named *Kaka Sungura* that prints coding facts and personal preferences using `console.log()`, `let`, `const`, and string concatenation. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/javascript-trivia-bot) |
 |  | 9️⃣ JavaScript Objects – Building A Recipe Tracker | 🥘 Objects & Arrays | Practice project for learning how to create objects, store them in arrays, write helper functions, and update object properties dynamically (recipes, ingredients, ratings, difficulty levels). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/JavaScript_Objects-Building-A-Recipe-Tracker) |
+|  | 🔟 JavaScript Quiz App | 📚 Knowledge Check | Interactive console-based quiz app with categorized questions, multiple-choice answers, and final results display for learning and testing JavaScript basics. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/javascript-quiz-app) |
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
@@ -121,15 +122,6 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | Greeting Card (CSS) | 🎨 Decorative Styling | Demonstration of `pseudo-elements` in CSS by building a greeting card. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
 |  | Event Flyer | 🖼️ Informational Layout | A flyer to demonstrate semantic HTML elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
 |  | Feedback Form | 🎨 Accessible Forms | A raw form in HTML using semantic elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
-
-
-
-
-
-
-
-
-
 
 
 
