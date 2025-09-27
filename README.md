@@ -89,7 +89,7 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | 7️⃣ MathBot | 🤖 Math Fundamentals | Interactive bot demonstrating the JavaScript `Math` object, including random numbers, rounding, max/min, and basic exercises for beginners. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/mathbot) |
 |  | 8️⃣ JavaScript Trivia Bot | 🤖 Fun Coding Facts | Beginner-friendly bot named *Kaka Sungura* that prints coding facts and personal preferences using `console.log()`, `let`, `const`, and string concatenation. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/javascript-trivia-bot) |
 |  | 9️⃣ JavaScript Objects – Building A Recipe Tracker | 🥘 Objects & Arrays | Practice project for learning how to create objects, store them in arrays, write helper functions, and update object properties dynamically (recipes, ingredients, ratings, difficulty levels). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/JavaScript_Objects-Building-A-Recipe-Tracker) |
-|  | 🔟 JavaScript Quiz App | 📚 Knowledge Check | Interactive console-based quiz app with categorized questions, multiple-choice answers, and final results display for learning and testing JavaScript basics. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/javascript-quiz-app) |
+|  | 🔟 Quiz Game | 🎮 Objects & Logic | A practice project showcasing objects, arrays, randomness, and conditional logic in JavaScript, where a computer answers random quiz questions. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/quiz-game) |
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
@@ -122,7 +122,6 @@ Strong grasp of semantic HTML, typography, box model, flexbox model, grid model,
 |  | Greeting Card (CSS) | 🎨 Decorative Styling | Demonstration of `pseudo-elements` in CSS by building a greeting card. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
 |  | Event Flyer | 🖼️ Informational Layout | A flyer to demonstrate semantic HTML elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
 |  | Feedback Form | 🎨 Accessible Forms | A raw form in HTML using semantic elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
-
 
 
 See more on my [![GitHub Profile](https://img.shields.io/badge/GitHub-karianjahi-black?logo=github)](https://github.com/karianjahi)
