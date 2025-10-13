@@ -91,7 +91,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
-| <div style="text-align:center; color:#9467bd;" rowspan="14">**JavaScript Basics**</div> | 1️⃣ Teacher Bot | 🤖 Beginner Practice | A simple JavaScript project demonstrating the use of variables and string manipulation in a chatbot-like interface. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/teacher-bot) |
+| <div style="text-align:center; color:#9467bd;" rowspan="15">**JavaScript Basics**</div> | 1️⃣ Teacher Bot | 🤖 Beginner Practice | A simple JavaScript project demonstrating the use of variables and string manipulation in a chatbot-like interface. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/teacher-bot) |
 |  | 2️⃣ Greetings Bot | ⚡ Introduction Bot | A beginner-level project demonstrating variables, `console.log()`, and string concatenation to introduce a fictional bot and show favorite subjects. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greetings-bot) |
 |  | 3️⃣ Sentence Maker | ⚡ String Building | A mini project practicing `console.log()`, variables (`const` & `let`), and string concatenation to build sentences dynamically. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sentence-maker) |
 |  | 4️⃣ JavaScript Functions Fundamentals | ⚡ Core Functions Practice | Collection of small, fundamental JavaScript functions for learning and practicing basics, inspired by freeCodeCamp exercises. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/js-functions-fundamentals) |
@@ -104,6 +104,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 1️⃣1️⃣ JavaScript Album Collection Manager | 🎵 Objects & Data Handling | Function-based project to manage, update, and maintain a music album collection stored as nested objects. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/js-album-collection) |
 |  | 1️⃣2️⃣ Sentence Analyzer | 🔤 Loops & String Processing | A JavaScript project that practices looping, string manipulation, and condition checking by analyzing sentences to count words, vowels, consonants, and punctuation marks. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sentence-analyzer) |
 |  | 1️⃣3️⃣ Longest Word Finder App | 🔠 Loops & String Processing | A JavaScript mini-project that returns the length of the longest word in a given sentence, designed to practice looping and string methods. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/longest-word-finder-app) |
+|  | 1️⃣4️⃣ Factorial Calculator | 🔁 Loops & Math Computation | A JavaScript mini-project that calculates the factorial of a number using a `for` loop. Designed to strengthen loop logic and mathematical operations. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/factorial-calculator) |
 
 ---
 
@@ -120,7 +121,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
-| <div style="text-align:center; color:#2ca02c;" rowspan="27">**User Interface & Web Layout Design**</div> | Flappy Penguin | 🎨 CSS Animation | Animated penguin waving its left hand demonstrating advanced HTML & CSS skills with scenic background. | [![Repo](https://img.shields.io-badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/flappy-penguin) |
+| <div style="text-align:center; color:#2ca02c;" rowspan="27">**User Interface & Web Layout Design**</div> | Flappy Penguin | 🎨 CSS Animation | Animated penguin waving its left hand demonstrating advanced HTML & CSS skills with scenic background. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/flappy-penguin) |
 |  | Moon Orbit Animation | 🖼️ CSS Animation | Animation of the moon orbiting around the earth using HTML and CSS keyframes. | [![Repo](https://img.shields.io-badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/moon-orbit-animation) |
 |  | Animated Ferries Wheel | 🎨 CSS Animation | Animated ferries wheel demonstrating CSS keyframes and transform properties. | [![Repo](https://img.shields.io-badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/animated-ferries-wheel) |
 |  | Trombone Sales | 🖼️ Responsive Layout Design | Creation of a sales landing page using CSS Grid and Flexbox. | [![Repo](https://img.shields.io-badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/trombones-sale-css-grid) |
