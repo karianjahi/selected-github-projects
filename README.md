@@ -91,7 +91,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
-| <div style="text-align:center; color:#9467bd;" rowspan="16">**JavaScript Basics**</div> | 1️⃣ Teacher Bot | 🤖 Beginner Practice | A simple JavaScript project demonstrating the use of variables and string manipulation in a chatbot-like interface. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/teacher-bot) |
+| <div style="text-align:center; color:#9467bd;" rowspan="18">**JavaScript Basics**</div> | 1️⃣ Teacher Bot | 🤖 Beginner Practice | A simple JavaScript project demonstrating the use of variables and string manipulation in a chatbot-like interface. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/teacher-bot) |
 |  | 2️⃣ Greetings Bot | ⚡ Introduction Bot | A beginner-level project demonstrating variables, `console.log()`, and string concatenation to introduce a fictional bot and show favorite subjects. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greetings-bot) |
 |  | 3️⃣ Sentence Maker | ⚡ String Building | A mini project practicing `console.log()`, variables (`const` & `let`), and string concatenation to build sentences dynamically. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sentence-maker) |
 |  | 4️⃣ JavaScript Functions Fundamentals | ⚡ Core Functions Practice | Collection of small, fundamental JavaScript functions for learning and practicing basics, inspired by freeCodeCamp exercises. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/js-functions-fundamentals) |
@@ -105,7 +105,10 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 1️⃣2️⃣ Sentence Analyzer | 🔤 Loops & String Processing | A JavaScript project that practices looping, string manipulation, and condition checking by analyzing sentences to count words, vowels, consonants, and punctuation marks. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sentence-analyzer) |
 |  | 1️⃣3️⃣ Longest Word Finder App | 🔠 Loops & String Processing | A JavaScript mini-project that returns the length of the longest word in a given sentence, designed to practice looping and string methods. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/longest-word-finder-app) |
 |  | 1️⃣4️⃣ Factorial Calculator | 🔁 Loops & Math Computation | A JavaScript mini-project that calculates the factorial of a number using a `for` loop. Designed to strengthen loop logic and mathematical operations. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/factorial-calculator) |
-|  | 1️⃣5️⃣ Profile Lookup | 🧑‍💻 Data Lookup Simulation | A JavaScript simulation demonstrating how to look up contact data (like in a database) by first name and return specific properties. Practices object access, looping, and conditional logic. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/profile-lookup) |
+|  | 1️⃣5️⃣ Chunky Monkey Algorithm | 🧩 Array Chunking Logic | A JavaScript algorithm that splits an array into smaller arrays (chunks) of a given size and returns a two-dimensional array. Practices nested loops and array manipulation. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/chunky-monkey-algorithm) |
+|  | 1️⃣6️⃣ Profile Lookup | 🧑‍💻 Data Lookup Simulation | A JavaScript simulation demonstrating how to look up contact data (like in a database) by first name and return specific properties. Practices object access, looping, and conditional logic. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/profile-lookup) |
+|  | 1️⃣7️⃣ String Repeating App | 🔁 Loops Practice | A simple JavaScript project that recreates the functionality of the `.repeat()` method using a manual loop to repeat strings a specified number of times. Perfect for practicing loops and concatenation. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/string-repeating-app) |
+|  | 1️⃣8️⃣ Mutation Algorithm | 🧬 String Comparison Logic | A JavaScript algorithm that checks if all characters from the second string in an array exist in the first string. Great for practicing loops, conditionals, and string methods. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/mutation-algorithm) |
 
 ---
 
@@ -149,6 +152,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | Greeting Card (CSS) | 🎨 Decorative Styling | Demonstration of `pseudo-elements` in CSS by building a greeting card. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/greeting-card-css) |
 |  | Event Flyer | 🖼️ Informational Layout | A flyer to demonstrate semantic HTML elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/event_flyer) |
 |  | Feedback Form | 🎨 Accessible Forms | A raw form in HTML using semantic elements. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/feedback_form) |
+
 
 
 
