@@ -110,6 +110,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 1️⃣7️⃣ String Repeating App | 🔁 Loops Practice | A simple JavaScript project that recreates the functionality of the `.repeat()` method using a manual loop to repeat strings a specified number of times. Perfect for practicing loops and concatenation. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/string-repeating-app) |
 |  | 1️⃣8️⃣ Mutation Algorithm | 🧬 String Comparison Logic | A JavaScript algorithm that checks if all characters from the second string in an array exist in the first string. Great for practicing loops, conditionals, and string methods. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/mutation-algorithm) |
 |  | 1️⃣9️⃣ Missing Letter Detector | 🔡 Alphabet Detection Logic | A JavaScript utility that identifies a missing letter in a sequence of lowercase letters and returns it, or `undefined` if all letters are present. Excellent for practicing loops, arrays, and string logic. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/missing-letter-detector) |
+|  | 2️⃣0️⃣ JavaScript Types to Quality | 🧩 Algorithms & Clean Code | A practice repo demonstrating JS fundamentals through clean code — includes largest number finder, first element finder, slice/splice emulation, pyramid builder, and a student gradebook app. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/javascript-types-to-quality) |
+
 
 ---
 
