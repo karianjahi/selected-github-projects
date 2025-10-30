@@ -113,6 +113,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 2️⃣0️⃣ JavaScript Types to Quality | 🧩 Algorithms & Clean Code | A practice repo demonstrating JS fundamentals through clean code — includes largest number finder, first element finder, slice/splice emulation, pyramid builder, and a student gradebook app. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/javascript-types-to-quality) |
 |  | 2️⃣1️⃣ Falsy Values Remover | 🧩 Array Cleaning Utility | A JavaScript utility that removes falsy values (`false`, `0`, `''`, `null`, `undefined`, `NaN`) from arrays to practice filtering logic and clean code. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/falsy-values-remover) |
 |  | 2️⃣2️⃣ Inventory Management Program | 🧩 Objects & Arrays & Logic | An inventory management program practicing objects, arrays, search/update logic, conditionals, loops, and function design to add, update, find, and remove products. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/inventory-management-program) |
+|  | 2️⃣3️⃣ Unique Sorted Union | 🧩 Arrays & Rest Parameters | A JavaScript project that merges multiple arrays into a single unique array while maintaining the order of first appearance. Practices rest parameters, loops, and array methods. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/unique-sorted-union) |
+
 
 
 ---
