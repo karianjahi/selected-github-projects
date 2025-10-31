@@ -118,6 +118,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 2️⃣5️⃣ DNA Pair Generator | 🧬 String & Array Algorithm | A JavaScript algorithm that converts a DNA strand into its complementary base pairs (A↔T, C↔G). Demonstrates string splitting, iteration, and 2D array construction. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/DNA-pair-generator) |
 |  | 2️⃣6️⃣ HTML Entity Converter | 🔤 String Escaping Utility | A JavaScript function that converts special characters (`&`, `<`, `>`, `"`, `'`) into their corresponding HTML entities. Demonstrates string iteration, conditional logic, and clean output handling. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/html-entity-converter) |
 |  | 2️⃣7️⃣ Fibonacci Sum Calculator | 🧮 Loops & Sequence Computation | A JavaScript project that calculates the sum of all odd Fibonacci numbers less than or equal to a given number. Demonstrates iteration, filtering, and arithmetic logic for sequence processing. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/fibonacci-sum-calculator) |
+|  | 2️⃣8️⃣ Element Skipper | 🧩 Array Filtering Logic | A JavaScript function that skips elements in an array until a provided condition returns true, returning the remaining elements. Strengthens logic building, iteration, and callback function skills. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/element-skipper) |
+
 
 
 
