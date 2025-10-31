@@ -116,6 +116,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 2️⃣3️⃣ Unique Sorted Union | 🧩 Arrays & Rest Parameters | A JavaScript project that merges multiple arrays into a single unique array while maintaining the order of first appearance. Practices rest parameters, loops, and array methods. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/unique-sorted-union) |
 |  | 2️⃣4️⃣ Sum All Numbers Algorithm | 🧮 Loops & Math Logic | A JavaScript algorithm that takes an array of two numbers and returns the sum of those numbers plus all the integers between them. Demonstrates loop logic, conditional handling, and array input processing. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sum-all-numbers-algorithm) |
 |  | 2️⃣5️⃣ DNA Pair Generator | 🧬 String & Array Algorithm | A JavaScript algorithm that converts a DNA strand into its complementary base pairs (A↔T, C↔G). Demonstrates string splitting, iteration, and 2D array construction. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/DNA-pair-generator) |
+|  | 2️⃣6️⃣ HTML Entity Converter | 🔤 String Escaping Utility | A JavaScript function that converts special characters (`&`, `<`, `>`, `"`, `'`) into their corresponding HTML entities. Demonstrates string iteration, conditional logic, and clean output handling. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/html-entity-converter) |
+
 
 
 
