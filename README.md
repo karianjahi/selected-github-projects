@@ -125,6 +125,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 3️⃣2️⃣ Sorted Index Finder | 🧩 Higher Order Functions and Callbacks: Array Indexing Logic | A JavaScript utility that returns the lowest index at which a value should be inserted into a sorted array, using higher-order functions (`sort` and `findIndex`). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sorted-index-finder) |
 |  | 3️⃣3️⃣ Symmetric Difference Function | 🧩 Arrays, Set Logic & Higher-Order Functions | A JavaScript function that computes the symmetric difference between two arrays using `filter` (a higher-order callback function) and `includes`, practicing array logic, iteration, and functional programming concepts. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/symmetric-difference-function) |
 |  | 3️⃣4️⃣ Value Remover Function | 🧩 Rest Parameters & Higher-Order Functions | A JavaScript function that removes specified values from an array using rest parameters, `filter` as a higher-order callback, and `includes` for membership checks. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/value-remover-function) |
+|  | 3️⃣5️⃣ Matching Object Filter | 🧩 Higher Order Functions & Object Filtering | A JavaScript function that filters an array of objects and returns only objects containing all key–value pairs from a source object. Practices loops, `every()`, iteration, and clean filtering logic. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/matching-object-filter) |
+
 
 
 
