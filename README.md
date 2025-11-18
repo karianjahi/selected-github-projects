@@ -123,6 +123,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 3️⃣0️⃣ Library Manager (Higher-Order Functions) | 📚 Functional Programming | A JavaScript practice project using `map()`, `filter()`, and `reduce()` to manage a small book catalog and compute insights. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/library-manager) |
 |  | 3️⃣1️⃣ Book Organizer | 📚 Higher Order Functions and Callbacks | A JavaScript project that manages a catalog of books, practicing array methods (`map`, `filter`, `sort`) and a custom comparator function to sort books by release year. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/book-organizer) |
 |  | 3️⃣2️⃣ Sorted Index Finder | 🧩 Higher Order Functions and Callbacks: Array Indexing Logic | A JavaScript utility that returns the lowest index at which a value should be inserted into a sorted array, using higher-order functions (`sort` and `findIndex`). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/sorted-index-finder) |
+|  | 3️⃣3️⃣ Symmetric Difference Function | 🧩 Arrays, Set Logic & Higher-Order Functions | A JavaScript function that computes the symmetric difference between two arrays using `filter` (a higher-order callback function) and `includes`, practicing array logic, iteration, and functional programming concepts. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/symmetric-difference-function) |
+
 
 
 
