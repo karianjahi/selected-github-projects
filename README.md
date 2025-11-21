@@ -128,6 +128,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 3️⃣5️⃣ Matching Object Filter | 🧩 Higher Order Functions & Object Filtering | A JavaScript function that filters an array of objects and returns only objects containing all key–value pairs from a source object. Practices loops, `every()`, iteration, and clean filtering logic. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/matching-object-filter) |
 |  | 🧮 Prime Number Sum Calculator | 🔢 Algorithms & Higher-Order Functions | A JavaScript project that uses higher-order functions (`reduce`) and callback-driven logic to compute the sum of all prime numbers less than or equal to a given number. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/prime-number-sum-calculator) |
 |  | 3️⃣6️⃣ Range-Based LCM Calculator | 🧩 Higher Order Functions & Math Logic | A JavaScript algorithm that computes the least common multiple (LCM) of two numbers and all integers between them, using iterative LCM accumulation and helper functions. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/range-based-lcm-calculator) |
+|  | 3️⃣7️⃣ Deep Flattening Tool | 🧩 Array Flattening Algorithm | A JavaScript utility that deeply flattens nested arrays of any depth without using `flat()` or `flatMap()`, preserving element order using a queue-based approach. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/deep-flattening-tool) |
+
 
 
 
