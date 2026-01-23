@@ -132,6 +132,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 3️⃣8️⃣ All-True Property Validator | 🧩 Truthiness & Object Property Validation | A JavaScript utility that checks whether a specific property in all objects of an array holds a truthy value. Reinforces truthiness, dynamic property access, and array iteration fundamentals. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/all-true-property-validator) |
 |  | 3️⃣9️⃣ Story Telling App | 📖 DOM & Event Handling | A storytelling app where users click genre buttons to display short stories and dynamically update UI styles (border color + text). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/story-telling-app) |
 |  | 4️⃣0️⃣ Emoji Reactor | 😊 DOM & Event Handling | An interactive emoji rating UI where each emoji button increments its own score from 0/10 up to 10/10 using a reusable update function and click listeners. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/emoji-reactor) |
+|  | 4️⃣1️⃣ Favorite Icon Toggler | ❤️ DOM & Event Handling | A simple UI where clicking a heart icon toggles between outlined and filled states, using class toggling and dynamic icon updates. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/favorite-icon-toggler) |
 
 
 
