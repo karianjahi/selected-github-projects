@@ -134,6 +134,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 4️⃣1️⃣ Emoji Reactor | 😊 DOM & Event Handling | An interactive emoji rating UI where each emoji button increments its own score from 0/10 up to 10/10 using a reusable update function and click listeners. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/emoji-reactor) |
 |  | 4️⃣2️⃣ Favorite Icon Toggler | ❤️ DOM & Event Handling | A simple UI where clicking a heart icon toggles between outlined and filled states, using class toggling and dynamic icon updates. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/favorite-icon-toggler) |
 |  | 4️⃣3️⃣ Music Instrument Filter | 🎵 DOM & Event Handling | A JavaScript project that filters and displays musical instruments by category using a dropdown menu, dynamic DOM updates, and `innerHTML` rendering. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/music-instrument-filter) |
+|  | 4️⃣4️⃣ Real-Time Character Counter | ✍️ DOM & Input Handling | A minimalist textarea app that counts characters in real time and enforces a 50-character limit with visual feedback when the limit is reached. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/real-time-character-counter) |
+
 
 
 
