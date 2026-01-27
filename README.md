@@ -87,7 +87,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 
 ## 🚀 JavaScript Basics Learning Path  
 
-`Variables` ➡️ `Strings` ➡️ `Functions` ➡️ `Math` ➡️ `Logic & Randomness` ➡️ `Objects & Arrays` ➡️ `Loops & String Processing`  
+`Variables & Data Types ➡️ Strings & Template Literals ➡️ Functions ➡️ Math & Randomness ➡️ Conditionals (Logic) ➡️ Objects ➡️ Arrays ➡️ Loops & Iteration ➡️ String/Array Algorithms ➡️ Higher-Order Functions (map/filter/reduce/sort) ➡️ DOM Manipulation ➡️ Events & UI State`  
 
 | Skill Group | Project Name | Field | Description | GitHub Link |
 | ----------- | ------------ | ----- | ----------- | ----------- |
