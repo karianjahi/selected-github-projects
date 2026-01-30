@@ -136,6 +136,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 4️⃣3️⃣ Music Instrument Filter | 🎵 DOM & Event Handling | A JavaScript project that filters and displays musical instruments by category using a dropdown menu, dynamic DOM updates, and `innerHTML` rendering. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/music-instrument-filter) |
 |  | 4️⃣4️⃣ Real-Time Character Counter | ✍️ DOM & Input Handling | A minimalist textarea app that counts characters in real time and enforces a 50-character limit with visual feedback when the limit is reached. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/real-time-character-counter) |
 |  | 4️⃣5️⃣ Lightbox Viewer | 🖼️ DOM Interaction & UI Overlay | A lightweight vanilla JavaScript lightbox gallery that displays fullscreen images from clickable thumbnails with overlay and close controls. <br>👉 **[Live Demo](https://karianjahi.github.io/lightbox-viewer/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/lightbox-viewer) |
+|  | 4️⃣6️⃣ Arsenal Team Cards | 🎯 DOM Manipulation & Responsive UI | An interactive football team cards app that dynamically renders Arsenal FC players from JavaScript objects, supports position-based filtering, highlights the captain, shuffles players on load, and adapts seamlessly across desktop and mobile screens using CSS Grid and Flexbox. <br>👉 **[Live Demo](https://karianjahi.github.io/arsenal-team-cards/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/arsenal-team-cards) |
+
 
 
 
