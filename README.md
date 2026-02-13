@@ -141,7 +141,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 4️⃣8️⃣ A Note-Taking App | 📝 DOM Editing & Accessibility | A lightweight, accessible-first note editor using `contenteditable`, focus/blur events, and `aria-live` status updates for screen readers. <br>👉 **[Live Demo](https://karianjahi.github.io/a-note-taking-app/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/a-note-taking-app) |
 |  | **4️⃣9️⃣ Theme Switcher (Accessible UI)** | 🎨 DOM State & Accessibility | An accessible theme switcher built with vanilla JavaScript, featuring an ARIA-compliant menu, body-level theme classes, CSS custom properties, and polite live-region announcements that fade out smoothly. <br>👉 **[Live Demo](https://karianjahi.github.io/theme-switcher/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/theme-switcher) |
 |  | 5️⃣0️⃣ Random Background Color Changer | 🎨 DOM & Events | A vanilla JavaScript project that changes the page background to a random color on button click and displays the current hex code. <br>👉 **[Live Demo](https://karianjahi.github.io/random-background-color-changer/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/random-background-color-changer) |
-
+| | 5️⃣1️⃣ Regex-Based Spam Filter | 🛡️ Regex & Input Validation | A lightweight rule-based spam checker that flags common spam phrases and obfuscated patterns (e.g., “fr33 m0n3y”, “stock alert”, money bait). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/regex-based-spam-filter) |
 
 
 
