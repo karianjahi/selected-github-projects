@@ -143,6 +143,8 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 5️⃣0️⃣ Random Background Color Changer | 🎨 DOM & Events | A vanilla JavaScript project that changes the page background to a random color on button click and displays the current hex code. <br>👉 **[Live Demo](https://karianjahi.github.io/random-background-color-changer/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/random-background-color-changer) |
 | | 5️⃣1️⃣ Regex-Based Spam Filter | 🛡️ Regex & Input Validation | A lightweight rule-based spam checker that flags common spam phrases and obfuscated patterns (e.g., “fr33 m0n3y”, “stock alert”, money bait). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/regex-based-spam-filter) |
 |  | 5️⃣2️⃣ Palindrome Checker | 🧩 Regex • Strings • DOM Events | A palindrome checker that uses regex to filter non-alphanumeric characters, normalizes case, and compares the reversed string. Supports click + Enter key input. <br>👉 **[Live Demo](https://karianjahi.github.io/palindrome-checker/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/palindrome-checker) |
+|  | 5️⃣3️⃣ Regex Sandbox | 🧪 Regex • DOM • Highlighting | An interactive regex testing playground with flag support (`i`, `g`), unique match filtering, and highlighted results. <br>👉 **[Live Demo](https://karianjahi.github.io/regex-sandbox/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/regex-sandbox) |
+
 
 
 
