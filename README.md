@@ -146,6 +146,7 @@ This file organizes all my repositories by skill group, providing quick referenc
 |  | 5️⃣3️⃣ Regex Sandbox | 🧪 Regex • DOM • Highlighting | An interactive regex testing playground with flag support (`i`, `g`), unique match filtering, and highlighted results. <br>👉 **[Live Demo](https://karianjahi.github.io/regex-sandbox/)** | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/regex-sandbox) |
 |  | 5️⃣4️⃣ Spinal Case Converter | 🧩 Regex • String Transformation | A lightweight JavaScript utility that converts strings into spinal-case (kebab-case) using positive lookahead and separator normalization. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/spinal-case-converter) |
 |  | 5️⃣5️⃣ Pig Latin Translator | 🐷 Regex • String Algorithms | A JavaScript utility that translates English words into Pig Latin using regex-based consonant cluster detection and vowel handling logic. | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/pig-latin-translator) |
+|  | 5️⃣6️⃣ Smart Word Replacement Function | 🧠 String Replacement • Capitalization Logic | A JavaScript utility that replaces a target word in a sentence while preserving the original word’s capitalization (uppercase/lowercase first letter handling). | [![Repo](https://img.shields.io/badge/View-Repo-blue?logo=github)](https://github.com/karianjahi/smart-word-replacement-function) |
 
 
 
